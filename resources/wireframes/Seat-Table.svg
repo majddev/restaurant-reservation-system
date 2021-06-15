@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="272" height="217" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="217" height="181" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(295 155)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1625" height="925" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1624" height="924" fill="none"/>
+    </g>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="295" height="1080" stroke="none"/>
+      <rect x="0.5" y="0.5" width="294" height="1079" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(295)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1625" height="155" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1624" height="154" fill="none"/>
+    </g>
+    <g id="Label" transform="translate(1199 77.178) rotate(-16)">
+      <text id="HEADER" transform="translate(0 65)" fill="#707070" font-size="60" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">HEADER</tspan></text>
+    </g>
+    <g id="Label-2" data-name="Label" transform="translate(-7.401 498.797) rotate(-59)">
+      <text id="NAVIGATION" transform="translate(0 65)" fill="#707070" font-size="60" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">NAVIGATION</tspan></text>
+    </g>
+    <g id="Form_Input" data-name="Form Input" transform="translate(360 245)">
+      <g id="Rectangle_3" data-name="Rectangle 3" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="286" height="55" stroke="none"/>
+        <rect x="0.5" y="0.5" width="285" height="54" fill="none"/>
+      </g>
+    </g>
+    <g id="Form_Label" data-name="Form Label" transform="translate(360 192)">
+      <text id="Table_Number" data-name="Table Number" transform="translate(0 32)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Table Number</tspan></text>
+    </g>
+    <g id="Label-3" data-name="Label" transform="translate(420 252)">
+      <text id="dropdown" transform="translate(0 29)" fill="#707070" font-size="27" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">dropdown</tspan></text>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(374 300)" clip-path="url(#clip-path)">
+      <g transform="translate(-374 -300)">
+        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(374 300)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="272" height="52" stroke="none"/>
+          <rect x="0.5" y="0.5" width="271" height="51" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-374 -250)">
+        <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(374 300)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="272" height="52" stroke="none"/>
+          <rect x="0.5" y="0.5" width="271" height="51" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-374 -200)">
+        <g id="Rectangle_4-3" data-name="Rectangle 4" transform="translate(374 300)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="272" height="52" stroke="none"/>
+          <rect x="0.5" y="0.5" width="271" height="51" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-374 -150)">
+        <g id="Rectangle_4-4" data-name="Rectangle 4" transform="translate(374 300)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="272" height="52" stroke="none"/>
+          <rect x="0.5" y="0.5" width="271" height="51" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(402 315)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-402 -313)">
+        <text id="_table_name_-_capacity_" data-name="{table_name} - {capacity}" transform="translate(402 335)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">{table_name} - {capacity}</tspan></text>
+      </g>
+      <g transform="translate(-402 -266)">
+        <text id="_table_name_-_capacity_2" data-name="{table_name} - {capacity}" transform="translate(402 335)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">{table_name} - {capacity}</tspan></text>
+      </g>
+      <g transform="translate(-402 -219)">
+        <text id="_table_name_-_capacity_3" data-name="{table_name} - {capacity}" transform="translate(402 335)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">{table_name} - {capacity}</tspan></text>
+      </g>
+      <g transform="translate(-402 -172)">
+        <text id="_table_name_-_capacity_4" data-name="{table_name} - {capacity}" transform="translate(402 335)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">{table_name} - {capacity}</tspan></text>
+      </g>
+    </g>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(629 282) rotate(180)" fill="#fff">
+      <path d="M 18.98456764221191 12.5 L 1.015433073043823 12.5 L 10 0.8200634717941284 L 18.98456764221191 12.5 Z" stroke="none"/>
+      <path d="M 10 1.640116691589355 L 2.030858993530273 12 L 17.96914100646973 12 L 10 1.640116691589355 M 10 9.5367431640625e-07 L 20 13 L 0 13 L 10 9.5367431640625e-07 Z" stroke="none" fill="#707070"/>
+    </g>
+    <text id="Seat_Reservation_reservation_id_" data-name="Seat Reservation {reservation_id}" transform="translate(318 103)" fill="#707070" font-size="60" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Seat Reservation {reservation_id}</tspan></text>
+    <g id="Form_Button" data-name="Form Button" transform="translate(351 582)">
+      <g id="Rectangle_5" data-name="Rectangle 5" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="160" height="67" rx="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="66" rx="29.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Form_Button-2" data-name="Form Button" transform="translate(545 582)">
+      <g id="Rectangle_5-2" data-name="Rectangle 5" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="160" height="67" rx="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="66" rx="29.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Button_Txt" data-name="Button Txt" transform="translate(392 599)">
+      <text id="Submit" transform="translate(0 27)" fill="#707070" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Submit</tspan></text>
+    </g>
+    <g id="Button_Txt-2" data-name="Button Txt" transform="translate(589 599)">
+      <text id="Cancel" transform="translate(0 27)" fill="#707070" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Cancel</tspan></text>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(883 192)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="454" height="487" stroke="none"/>
+      <rect x="0.5" y="0.5" width="453" height="486" fill="none"/>
+    </g>
+    <g id="Label-4" data-name="Label" transform="translate(822 792.254) rotate(-30)">
+      <text id="BODY" transform="translate(0 212)" fill="#707070" font-size="196" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">BODY</tspan></text>
+    </g>
+    <text id="Reservation_Information" data-name="Reservation Information" transform="translate(952 237)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Reservation Information</tspan></text>
+    <g id="Label-5" data-name="Label" transform="translate(1032.747 342.602) rotate(25)">
+      <text id="INFO" transform="translate(0 81)" fill="#707070" font-size="75" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">INFO</tspan></text>
+    </g>
+    <g id="Label-6" data-name="Label" transform="translate(27 38)">
+      <text id="COMPANY" transform="translate(0 44)" fill="#707070" font-size="41" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em" opacity="0.5"><tspan x="0" y="0">COMPANY</tspan></text>
+    </g>
+  </g>
+</svg>
